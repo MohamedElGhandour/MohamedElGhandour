@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/MohamedElGhandour)
+![Metrics](https://metrics.lecoq.io/MohamedElGhandour?template=classic&activity=1&isocalendar=1&languages=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Africa%2FCairo&config.animated=true)
 
 <!--
 **MohamedElGhandour/MohamedElGhandour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
